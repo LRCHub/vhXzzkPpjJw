@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "冬のひ",
+  "base_artist": "katawara",
+  "createdAt": "2026-02-07T11:47:10.716664Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬のひ",
+      "artist": "katawara",
+      "has_synced": false,
+      "path": "select/pl_01_冬のひ_katawara.txt"
+    }
+  ]
+}
